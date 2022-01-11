@@ -1,1 +1,1 @@
-emojis_teletips = [💢,✨]
+emojis_teletips = ['⭐','✨']
